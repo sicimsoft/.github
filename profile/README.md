@@ -1,0 +1,3 @@
+# .github
+
+- WELCOME TO SICIM ORGANIZATION
